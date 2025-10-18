@@ -5,6 +5,7 @@ Our package introduces **RBF-fPINN**, a cutting-edge *fractional Physics-Informe
 all simulations with the PyTorch framework on a single NVIDIA Tesla V100 GPU.
 
 For more information, please refer to our paper:
+
 Mohammadi, M., Mokhtari, R., & Ramezani, M. Rbf-Fpinns: Radial Basis Function-Enhanced Fractional Physics-Informed Neural Networks. Under Reviewing. (Available at SSRN 5072679)
 
 ---
