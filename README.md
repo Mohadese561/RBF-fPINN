@@ -1,8 +1,9 @@
 # RBF-fPINN: 
 ## Fractional Physics-Informed Neural Network with Radial Basis Functions
 
-Our package introduces **RBF-fPINN**, a cutting-edge *fractional Physics-Informed Neural Network (fPINN)* that leverages **Radial Basis Function (RBF)** neural networks to significantly enhance solution accuracy. Unlike traditional fPINNs, the **RBF-fPINN** employs a *single hidden layer* where **RBFs** serve as activation functions. We perform
-all simulations with the PyTorch framework on a single NVIDIA Tesla V100 GPU.
+Our package introduces **RBF-fPINN**, a cutting-edge *fractional Physics-Informed Neural Network (fPINN)* that leverages **Radial Basis Function (RBF)** neural networks to significantly enhance solution accuracy. Unlike traditional fPINNs, the **RBF-fPINN** employs a *single hidden layer* where **RBFs** serve as activation functions. 
+
+We perform all simulations with the PyTorch framework on a single **NVIDIA Tesla V100 GPU**.
 
 For more information, please refer to our paper:
 
