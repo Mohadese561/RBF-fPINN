@@ -22,7 +22,6 @@ use_RBFfPINN = True  # Set to False to run standard fPINN
 ## ⚖️ License
 
 This project is released under the **MIT License**.  
-You are free to use, modify, and distribute the code, provided that proper credit is given to the original authors.
 
 > © 2025 — Please cite the corresponding paper if you use this repository in your research.
 
