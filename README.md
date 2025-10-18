@@ -38,7 +38,7 @@ It shows strong potential for improving the performance of neural PDE solvers in
 
 - **Maryam Mohammadi** — Ph.D. Student, Department of Mathematical Sciences, Isfahan University of Technology, Iran.  
 - **Reza Mokhtari** — Professor, Department of Applied Mathematics, Isfahan University of Technology, Iran.  
-- **Mahdieh Ramazani** — Postdoctoral Researcher, Department of Mathematical Sciences, Isfahan University of Technology, Iran.
+- **Mohadese Ramazani** — Postdoctoral Researcher, Department of Mathematical Sciences, Isfahan University of Technology, Iran.
 
 ---
 
